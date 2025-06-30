@@ -1,2 +1,4 @@
 # EDWAR
-EDWAR, an Ex- plainable ADHD Diagnostic Framework Using Weakly-Supervised Ac- tion Recognition
+EDWAR, an Explainable ADHD Diagnostic Framework Using Weakly-Supervised Action Recognition
+
+**Code and Dataset will be updated soon**
